@@ -5,7 +5,7 @@ using UnityEngine;
 public class bulet_movement : MonoBehaviour
 {
     public CharacterController bullet;
-    float time = 0;
+    float time = 0.1;
 
     // Update is called once per frame
     void Update()
